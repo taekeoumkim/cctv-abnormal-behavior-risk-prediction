@@ -18,12 +18,6 @@ The goal of this study is not to classify abnormal behavior types, but to
 
 ---
 
-## 📂 Repository Structure
-├── preprocess.py
-├── Predicting_abnormal.ipynb
-├── parameter_tuning.ipynb
-└── README.md
-
 ### File Descriptions
 
 - **`preprocess.py`**  
